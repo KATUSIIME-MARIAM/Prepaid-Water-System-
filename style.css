@@ -1,0 +1,29 @@
+footer{
+	background-color: black;
+}
+body{background-color: skyblue;
+	text-align: center;
+	}
+.col-1,
+.col-2,
+.col-1{
+	color: white;
+}
+.up{
+	background-color: white;
+}
+@media(max-width:578px){
+	/*responsive to small devices*/
+}
+@media(min-width:578px and max-width:792px){
+	/*responsive to medium devices*/
+}
+@media(min-width:792px and max-width:993px){
+	/*responsive to large devices*/
+}
+@media(max-width:1200px){
+	/*responsive to desktop devices*/
+}
+.link a{
+	color: skyblue;
+}
